@@ -1,0 +1,9 @@
+{
+  "appId": "bank.sampah.dhs",
+  "appName": "BankSampah",
+  "webDir": "dist/spa",
+  "bundledWebRuntime": false,
+  "server": {
+    "cleartext": true
+  }
+}
